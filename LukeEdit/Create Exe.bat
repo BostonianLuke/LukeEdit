@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="images/LukeEdit.ico" Main.py
