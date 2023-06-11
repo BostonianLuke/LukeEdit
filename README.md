@@ -1,2 +1,2 @@
 # LukeEdit
-LukeEdit shall replace UltraEdit!
+LukeEdit is a GUI text viewer
